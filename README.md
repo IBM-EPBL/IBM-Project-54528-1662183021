@@ -1,3 +1,3 @@
-# Industry-specific intelligent fire management system
+# INDUSTRY-SPECIFIC INTELLIGENT FIRE MANAGEMENT SYSTEM
 # IBM: Project-54528-1662183021
 # Team ID: PNT2022TMID54479
